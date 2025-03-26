@@ -1,0 +1,7 @@
+GOOGLE_API_KEY=AIzaSyCC-B1PFwUKg6c4ryvQh_QhjCex3bYxSsA
+Streamlit
+Langchain
+langchain_google_genai
+os
+PyPDF2
+PILdotenv
